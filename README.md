@@ -1,6 +1,6 @@
-# superdome
+# Superdome
 
-SuperDOME: Superposition Density-Optimized Mixture of Experts
+Superdome: Superposition Density-Optimized Mixture of Experts
 
 A framework for model-to-model knowledge compression
 
